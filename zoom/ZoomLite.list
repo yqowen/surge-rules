@@ -1,0 +1,86 @@
+# NAME: ZoomLite
+# AUTHOR: Owen Ye / Clawd
+# REPO: https://github.com/yqowen/surge-rules
+# UPDATED: 2026-04-05 14:14:05 UTC
+# DOMAIN: 1
+# DOMAIN-KEYWORD: 0
+# DOMAIN-SUFFIX: 5
+# IP-CIDR: 68
+# TOTAL: 74
+#
+# Curated lightweight version for personal use.
+# Generated from official Zoom ranges, but trimmed to stable/common entries.
+DOMAIN,zdmapi.zoom.us
+DOMAIN-SUFFIX,zoom.com
+DOMAIN-SUFFIX,zoom.com.cn
+DOMAIN-SUFFIX,zoom.us
+DOMAIN-SUFFIX,zoomapp.cloud
+DOMAIN-SUFFIX,zoomstatus.com
+IP-CIDR,101.36.167.0/24,no-resolve
+IP-CIDR,101.36.170.0/23,no-resolve
+IP-CIDR,103.122.166.0/23,no-resolve
+IP-CIDR,111.33.115.0/25,no-resolve
+IP-CIDR,111.33.181.0/25,no-resolve
+IP-CIDR,115.110.154.192/26,no-resolve
+IP-CIDR,115.114.115.0/26,no-resolve
+IP-CIDR,115.114.131.0/26,no-resolve
+IP-CIDR,115.114.56.192/26,no-resolve
+IP-CIDR,120.29.148.0/24,no-resolve
+IP-CIDR,121.244.146.0/27,no-resolve
+IP-CIDR,134.224.0.0/16,no-resolve
+IP-CIDR,137.66.128.0/17,no-resolve
+IP-CIDR,144.195.0.0/16,no-resolve
+IP-CIDR,147.124.96.0/19,no-resolve
+IP-CIDR,149.137.0.0/17,no-resolve
+IP-CIDR,15.220.80.0/24,no-resolve
+IP-CIDR,15.220.81.0/25,no-resolve
+IP-CIDR,156.45.0.0/17,no-resolve
+IP-CIDR,159.124.0.0/16,no-resolve
+IP-CIDR,160.1.56.128/25,no-resolve
+IP-CIDR,161.199.136.0/22,no-resolve
+IP-CIDR,162.12.232.0/22,no-resolve
+IP-CIDR,162.255.36.0/22,no-resolve
+IP-CIDR,165.254.88.0/23,no-resolve
+IP-CIDR,166.108.64.0/18,no-resolve
+IP-CIDR,168.140.0.0/17,no-resolve
+IP-CIDR,170.114.0.0/16,no-resolve
+IP-CIDR,173.231.80.0/20,no-resolve
+IP-CIDR,18.254.23.128/25,no-resolve
+IP-CIDR,18.254.61.0/25,no-resolve
+IP-CIDR,192.204.12.0/22,no-resolve
+IP-CIDR,198.251.128.0/17,no-resolve
+IP-CIDR,20.203.158.80/28,no-resolve
+IP-CIDR,20.203.190.192/26,no-resolve
+IP-CIDR,202.177.207.128/27,no-resolve
+IP-CIDR,203.200.219.128/27,no-resolve
+IP-CIDR,204.141.28.0/22,no-resolve
+IP-CIDR,204.80.104.0/21,no-resolve
+IP-CIDR,206.247.0.0/16,no-resolve
+IP-CIDR,207.226.132.0/24,no-resolve
+IP-CIDR,209.9.211.0/24,no-resolve
+IP-CIDR,209.9.215.0/24,no-resolve
+IP-CIDR,213.19.144.0/24,no-resolve
+IP-CIDR,213.19.153.0/24,no-resolve
+IP-CIDR,213.244.140.0/24,no-resolve
+IP-CIDR,221.122.63.0/24,no-resolve
+IP-CIDR,221.122.64.0/24,no-resolve
+IP-CIDR,221.122.88.128/25,no-resolve
+IP-CIDR,221.122.88.64/27,no-resolve
+IP-CIDR,221.122.89.128/25,no-resolve
+IP-CIDR,221.123.139.192/27,no-resolve
+IP-CIDR,3.235.82.0/23,no-resolve
+IP-CIDR,3.235.96.0/23,no-resolve
+IP-CIDR,3.7.35.0/25,no-resolve
+IP-CIDR,4.34.125.128/25,no-resolve
+IP-CIDR,4.35.64.128/25,no-resolve
+IP-CIDR,50.239.202.0/23,no-resolve
+IP-CIDR,50.239.204.0/24,no-resolve
+IP-CIDR,52.61.100.128/25,no-resolve
+IP-CIDR,52.84.151.0/24,no-resolve
+IP-CIDR,64.125.62.0/24,no-resolve
+IP-CIDR,64.211.144.0/24,no-resolve
+IP-CIDR,64.224.32.0/19,no-resolve
+IP-CIDR,65.39.152.0/24,no-resolve
+IP-CIDR,69.174.108.0/22,no-resolve
+IP-CIDR,69.174.57.0/24,no-resolve
+IP-CIDR,8.5.128.0/23,no-resolve
