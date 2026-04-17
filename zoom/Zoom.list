@@ -1,12 +1,12 @@
 # NAME: Zoom
 # AUTHOR: Owen Ye / Clawd
 # REPO: https://github.com/yqowen/surge-rules
-# UPDATED: 2026-04-16 03:26:01 UTC
+# UPDATED: 2026-04-17 03:25:55 UTC
 # DOMAIN: 1
 # DOMAIN-KEYWORD: 0
 # DOMAIN-SUFFIX: 5
-# IP-CIDR: 1823
-# TOTAL: 1829
+# IP-CIDR: 1805
+# TOTAL: 1811
 #
 # Generated automatically from official Zoom IP range TXT files.
 # Sources: Zoom.txt + ZoomApps.txt
@@ -313,7 +313,6 @@ IP-CIDR,115.110.154.192/26,no-resolve
 IP-CIDR,115.114.115.0/26,no-resolve
 IP-CIDR,115.114.131.0/26,no-resolve
 IP-CIDR,115.114.56.192/26,no-resolve
-IP-CIDR,120.29.148.0/24,no-resolve
 IP-CIDR,121.244.146.0/27,no-resolve
 IP-CIDR,13.224.0.245/32,no-resolve
 IP-CIDR,13.224.102.247/32,no-resolve
@@ -752,7 +751,6 @@ IP-CIDR,160.1.56.128/25,no-resolve
 IP-CIDR,161.199.136.0/22,no-resolve
 IP-CIDR,162.12.232.0/22,no-resolve
 IP-CIDR,162.255.36.0/22,no-resolve
-IP-CIDR,165.254.88.0/23,no-resolve
 IP-CIDR,166.108.64.0/18,no-resolve
 IP-CIDR,168.140.0.0/17,no-resolve
 IP-CIDR,170.114.0.0/16,no-resolve
@@ -1427,20 +1425,12 @@ IP-CIDR,192.204.12.0/22,no-resolve
 IP-CIDR,198.251.128.0/17,no-resolve
 IP-CIDR,20.203.158.80/28,no-resolve
 IP-CIDR,20.203.190.192/26,no-resolve
-IP-CIDR,202.177.207.128/27,no-resolve
 IP-CIDR,203.200.219.128/27,no-resolve
-IP-CIDR,204.141.28.0/22,no-resolve
 IP-CIDR,204.246.177.244/32,no-resolve
 IP-CIDR,204.80.104.0/21,no-resolve
 IP-CIDR,205.251.219.244/32,no-resolve
 IP-CIDR,205.251.223.244/32,no-resolve
 IP-CIDR,206.247.0.0/16,no-resolve
-IP-CIDR,207.226.132.0/24,no-resolve
-IP-CIDR,209.9.211.0/24,no-resolve
-IP-CIDR,209.9.215.0/24,no-resolve
-IP-CIDR,213.19.144.0/24,no-resolve
-IP-CIDR,213.19.153.0/24,no-resolve
-IP-CIDR,213.244.140.0/24,no-resolve
 IP-CIDR,216.137.42.242/32,no-resolve
 IP-CIDR,221.122.63.0/24,no-resolve
 IP-CIDR,221.122.64.0/24,no-resolve
@@ -1451,10 +1441,6 @@ IP-CIDR,221.123.139.192/27,no-resolve
 IP-CIDR,3.235.82.0/23,no-resolve
 IP-CIDR,3.235.96.0/23,no-resolve
 IP-CIDR,3.7.35.0/25,no-resolve
-IP-CIDR,4.34.125.128/25,no-resolve
-IP-CIDR,4.35.64.128/25,no-resolve
-IP-CIDR,50.239.202.0/23,no-resolve
-IP-CIDR,50.239.204.0/24,no-resolve
 IP-CIDR,52.222.130.244/32,no-resolve
 IP-CIDR,52.222.133.246/32,no-resolve
 IP-CIDR,52.222.139.245/32,no-resolve
@@ -1659,10 +1645,8 @@ IP-CIDR,54.239.216.246/32,no-resolve
 IP-CIDR,54.240.166.243/32,no-resolve
 IP-CIDR,54.240.170.246/32,no-resolve
 IP-CIDR,54.240.187.244/32,no-resolve
-IP-CIDR,64.125.62.0/24,no-resolve
 IP-CIDR,64.211.144.0/24,no-resolve
 IP-CIDR,64.224.32.0/19,no-resolve
-IP-CIDR,65.39.152.0/24,no-resolve
 IP-CIDR,65.8.0.245/32,no-resolve
 IP-CIDR,65.8.104.247/32,no-resolve
 IP-CIDR,65.8.107.241/32,no-resolve
@@ -1740,8 +1724,6 @@ IP-CIDR,65.9.91.246/32,no-resolve
 IP-CIDR,65.9.94.245/32,no-resolve
 IP-CIDR,65.9.98.242/32,no-resolve
 IP-CIDR,69.174.108.0/22,no-resolve
-IP-CIDR,69.174.57.0/24,no-resolve
-IP-CIDR,8.5.128.0/23,no-resolve
 IP-CIDR,99.84.0.243/32,no-resolve
 IP-CIDR,99.84.104.242/32,no-resolve
 IP-CIDR,99.84.109.241/32,no-resolve
