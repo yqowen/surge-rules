@@ -1,7 +1,7 @@
 # NAME: Zoom
 # AUTHOR: Owen Ye / Clawd
 # REPO: https://github.com/yqowen/surge-rules
-# UPDATED: 2026-08-29 09:05:16 UTC
+# UPDATED: 2026-08-30 08:20:43 UTC
 # DOMAIN: 1
 # DOMAIN-KEYWORD: 0
 # DOMAIN-SUFFIX: 5
@@ -1421,7 +1421,7 @@ IP-CIDR,18.67.84.244/32,no-resolve
 IP-CIDR,18.67.90.247/32,no-resolve
 IP-CIDR,18.67.94.244/32,no-resolve
 IP-CIDR,18.67.97.247/32,no-resolve
-IP-CIDR,192.204.12.0/22,no-resolve
+IP-CIDR,192.204.12.0/23,no-resolve
 IP-CIDR,198.251.128.0/17,no-resolve
 IP-CIDR,20.203.158.80/28,no-resolve
 IP-CIDR,20.203.190.192/26,no-resolve
