@@ -1,12 +1,12 @@
 # NAME: ZoomLite
 # AUTHOR: Owen Ye / Clawd
 # REPO: https://github.com/yqowen/surge-rules
-# UPDATED: 2026-10-07 08:44:01 UTC
+# UPDATED: 2026-10-08 09:02:31 UTC
 # DOMAIN: 1
 # DOMAIN-KEYWORD: 0
 # DOMAIN-SUFFIX: 5
-# IP-CIDR: 49
-# TOTAL: 55
+# IP-CIDR: 47
+# TOTAL: 53
 #
 # Curated lightweight version for personal use.
 # Generated from official Zoom ranges, but trimmed to stable/common entries.
@@ -58,10 +58,8 @@ IP-CIDR,221.122.88.64/27,no-resolve
 IP-CIDR,221.122.89.128/25,no-resolve
 IP-CIDR,221.123.139.192/27,no-resolve
 IP-CIDR,3.235.82.0/23,no-resolve
-IP-CIDR,3.235.96.0/23,no-resolve
 IP-CIDR,3.7.35.0/25,no-resolve
 IP-CIDR,52.61.100.128/25,no-resolve
 IP-CIDR,52.84.151.0/24,no-resolve
 IP-CIDR,64.211.144.0/24,no-resolve
 IP-CIDR,64.224.32.0/19,no-resolve
-IP-CIDR,69.174.108.0/22,no-resolve

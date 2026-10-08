@@ -1,12 +1,12 @@
 # NAME: Zoom
 # AUTHOR: Owen Ye / Clawd
 # REPO: https://github.com/yqowen/surge-rules
-# UPDATED: 2026-10-07 08:44:01 UTC
+# UPDATED: 2026-10-08 09:02:31 UTC
 # DOMAIN: 1
 # DOMAIN-KEYWORD: 0
 # DOMAIN-SUFFIX: 5
-# IP-CIDR: 1805
-# TOTAL: 1811
+# IP-CIDR: 1806
+# TOTAL: 1812
 #
 # Generated automatically from official Zoom IP range TXT files.
 # Sources: Zoom.txt + ZoomApps.txt
@@ -1439,7 +1439,8 @@ IP-CIDR,221.122.88.64/27,no-resolve
 IP-CIDR,221.122.89.128/25,no-resolve
 IP-CIDR,221.123.139.192/27,no-resolve
 IP-CIDR,3.235.82.0/23,no-resolve
-IP-CIDR,3.235.96.0/23,no-resolve
+IP-CIDR,3.235.96.158/31,no-resolve
+IP-CIDR,3.235.96.26/31,no-resolve
 IP-CIDR,3.7.35.0/25,no-resolve
 IP-CIDR,52.222.130.244/32,no-resolve
 IP-CIDR,52.222.133.246/32,no-resolve
@@ -1723,7 +1724,7 @@ IP-CIDR,65.9.84.242/32,no-resolve
 IP-CIDR,65.9.91.246/32,no-resolve
 IP-CIDR,65.9.94.245/32,no-resolve
 IP-CIDR,65.9.98.242/32,no-resolve
-IP-CIDR,69.174.108.0/22,no-resolve
+IP-CIDR,69.174.110.0/23,no-resolve
 IP-CIDR,99.84.0.243/32,no-resolve
 IP-CIDR,99.84.104.242/32,no-resolve
 IP-CIDR,99.84.109.241/32,no-resolve
